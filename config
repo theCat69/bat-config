@@ -1,0 +1,8 @@
+# Set theme GitHub
+--theme=GitHub
+
+# All the styles only here as an example
+--style="changes,header,grid,numbers"
+
+# No pager
+#--pager=never
